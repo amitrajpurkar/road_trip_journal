@@ -1,0 +1,13 @@
+date,day_no,category,description,budgeted_amount,actual_amount,currency,payment_method,receipt_ref,notes
+2026-05-30,1,accommodation,City A Hotel — night 1,140,140,USD,card,RCP-001,
+2026-05-30,1,fuel,Shell Station on I-90,60,52,USD,card,RCP-002,Filled up — 3/4 tank
+2026-05-30,1,food,Roadside diner lunch,20,18,USD,cash,,
+2026-05-30,1,food,Dinner City A restaurant,70,64,USD,card,RCP-003,
+2026-05-31,2,activity,Morning hike trail fee,20,20,USD,cash,,
+2026-05-31,2,food,Bakery breakfast + coffee,15,22,USD,cash,,Worth every extra dollar
+,,accommodation,Total accommodation budget,2500,,,,,Pre-trip estimate
+,,fuel,Total fuel budget,800,,,,,Pre-trip estimate
+,,food,Total food budget,1200,,,,,Pre-trip estimate
+,,activities,Total activities budget,600,,,,,Pre-trip estimate
+,,shopping,Total shopping/misc budget,400,,,,,Pre-trip estimate
+,,TOTAL,,,,,,,

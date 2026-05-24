@@ -1,0 +1,5 @@
+booking_type,provider_name,location,address,confirmation_no,checkin_date,checkout_date,nights,total_cost,currency,paid,status,contact,notes
+accommodation,Hilton Garden Inn,City A,123 Main St,HGI-8821,2026-05-30,2026-06-01,2,280,USD,Y,confirmed,1-800-XXX-XXXX,Free parking included
+accommodation,Airbnb Cottage,Lake B,45 Pine Rd,AIR-3390,2026-06-01,2026-06-03,2,210,USD,Y,confirmed,host@email.com,Self check-in — key lockbox
+activity,Kayak Rentals Co,Lake B,,KR-441,2026-06-02,,0,60,USD,N,pending,kayaks@lake.com,2 kayaks for 3 hrs
+transport,Enterprise Rent-A-Car,Home Airport,,ENT-9902,2026-05-30,2026-06-17,18,890,USD,N,confirmed,enterprise.com,Full coverage insurance added

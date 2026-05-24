@@ -1,0 +1,4 @@
+leg_no,date,day_no,from_location,to_location,distance_km,est_drive_hrs,via_highway,fuel_stop,road_type,toll,scenic_detour,notes
+1,2026-05-30,1,Home,City A,240,3.0,I-90 E,Shell at Mile 120,highway,N,N,Straightforward motorway drive
+2,2026-06-01,3,City A,Lake B,95,1.5,Route 2,No stop needed,mixed,N,Y,Take the old coastal road — adds 20 min but worth it
+3,2026-06-03,5,Lake B,Mountain Town C,180,2.5,US-2,Fill up before leaving Lake B,scenic mountain,N,Y,Mountain pass — check road conditions in advance

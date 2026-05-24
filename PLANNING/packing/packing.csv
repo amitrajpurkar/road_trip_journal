@@ -1,0 +1,22 @@
+category,item,for_person,quantity,packed,bag_label,notes
+clothing,T-shirts,Amit,5,N,Suitcase 1,Casual / breathable
+clothing,Jeans,Amit,2,N,Suitcase 1,
+clothing,Hiking pants,Amit,1,N,Day Pack,Quick-dry
+clothing,Swimwear,Amit,2,N,Suitcase 1,
+clothing,Rain jacket,All,1,N,Car Boot,Shared
+clothing,Warm layer / fleece,Amit,1,N,Suitcase 1,Evenings can be cool
+footwear,Hiking boots,Amit,1,N,Car Boot,Worn on travel day
+footwear,Sandals,Amit,1,N,Suitcase 1,
+toiletries,Sunscreen SPF50,All,2,N,Toiletry Bag,
+toiletries,Insect repellent,All,1,N,Toiletry Bag,
+toiletries,First aid kit,All,1,N,Car Boot,Plasters / pain relief / antiseptic
+electronics,Phone charger,Amit,1,N,Day Pack,
+electronics,Car USB adapter,All,1,N,Car Dash,Multi-port
+electronics,Portable power bank,All,1,N,Day Pack,20
+electronics,Camera + spare battery,Amit,1,N,Day Pack,
+documents,Passports / ID,All,1,N,Day Pack,Keep on person
+documents,Insurance documents,All,1,N,Glove Box,Health + car
+documents,Booking confirmations,All,1,N,Day Pack,Printed copies as backup
+gear,Reusable water bottles,All,2,N,Car Boot,1 per person
+gear,Snack bag / cooler,All,1,N,Car Boot,Refill at stores
+gear,Sunglasses,Amit,1,N,Day Pack,

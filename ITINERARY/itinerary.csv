@@ -1,0 +1,8 @@
+date,day_no,time,location,activity_type,description,duration_hrs,booking_ref,cost,currency,notes
+2026-05-30,1,09:00,Home,drive,Drive from home to first stop,3.5,,0,USD,Pack car the night before
+2026-05-30,1,12:30,Rest Stop I-90,break,Lunch and fuel stop,0.5,,15,USD,
+2026-05-30,1,14:00,City A,arrive,Check in to accommodation,,ABC123,0,USD,Check-in from 3pm
+2026-05-30,1,16:00,City A,explore,Walk the old town & waterfront,2,,0,USD,
+2026-05-30,1,19:00,City A,meal,Dinner at local restaurant,1.5,,60,USD,Reservation recommended
+2026-05-31,2,08:30,City A,meal,Breakfast at hotel,1,,0,USD,Included
+2026-05-31,2,10:00,City A,activity,Morning hike / sightseeing,3,,20,USD,Book tickets in advance
